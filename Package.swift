@@ -2,7 +2,7 @@
 import PackageDescription
 
 // 本轮 GitHub Release 的 Tag；每次发布时与远端版本名称保持一致。
-let releaseVersion = "4.7.3-beta.1"
+let releaseVersion = "4.7.3"
 
 // 三个附件共用的下载目录；Release 和附件公开发布后才可访问。
 let releaseBaseURL = "https://github.com/ZCSDK/SobotClientSDK-SPM/releases/download/\(releaseVersion)"
