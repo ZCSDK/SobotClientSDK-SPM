@@ -1,0 +1,8 @@
+# 本地验证产物不提交；正式版本使用远程二进制附件。
+/Artifacts/
+
+# SwiftPM / Xcode 在开发机器生成的缓存和个人配置。
+/.build/
+/.swiftpm/
+**/xcuserdata/
+.DS_Store
